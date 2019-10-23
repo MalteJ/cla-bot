@@ -202,9 +202,13 @@ exports.handler = constructHandler(async webhook => {
     );
     message = await removeLabelAndSetFailureStatus(unidentifiedString);
   } else {
-    const committers = sortUnique(
-      commits.map(c => c.author.login.toLowerCase())
-    );
+    // the GitHub commit contains git author information (within commit.author), and GitHub author
+    // information (with author), we need both depending on verification more, so combine.
+    // see: https://developer.github.com/v3/pulls/#list-commits-on-a-pull-request
+    const committers = commits.map(c => ({
+      ...(c.commit ? c.commit.author : {}),
+      ...c.author
+    }));
     const verifier = contributionVerifier(botConfig);
     const nonContributors = await verifier(committers, token);
 
@@ -228,7 +232,7 @@ exports.handler = constructHandler(async webhook => {
 
       message = `added label ${botConfig.label} to ${pullRequestUrl}`;
     } else {
-      const usersWithoutCLA = nonContributors
+      const usersWithoutCLA = sortUnique(nonContributors)
         .map(contributorId => `@${contributorId}`)
         .join(", ");
       logger.info(

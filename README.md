@@ -19,61 +19,61 @@ This bot checks over 20,000 PRs each month and is used by a number of prominent 
 <table>
 <tr>
   <td>
-    <a href="https://www.nativescript.org/"><img src="https://avatars3.githubusercontent.com/u/7392261?s=200&v=4"/>
+    <a href="https://www.nativescript.org/"><img src="https://avatars3.githubusercontent.com/u/7392261?s=50"/>
     <br/>NativeScript</a>
   </td>
   <td>
-    <a href="https://prestosql.io/"><img src="https://avatars2.githubusercontent.com/u/34147222?s=200&v=4"/>
+    <a href="https://prestosql.io/"><img src="https://avatars2.githubusercontent.com/u/34147222?s=50"/>
     <br/>PrestoSQL</a>
   </td>
   <td>
-    <a href="https://www.demandware.com/"><img src="https://avatars3.githubusercontent.com/u/1315434?s=200&v=4"/>
+    <a href="https://www.demandware.com/"><img src="https://avatars3.githubusercontent.com/u/1315434?s=50"/>
     <br/>Salesforce</a>
   </td>
   <td>
-    <a href="https://github.com/Seagate"><img src="https://avatars2.githubusercontent.com/u/5016309?s=200&v=4"/>
+    <a href="https://github.com/Seagate"><img src="https://avatars2.githubusercontent.com/u/5016309?s=50"/>
     <br/>Seagate</a>
   </td>
   <td>
-    <a href="https://mailchimp.com/"><img src="https://avatars2.githubusercontent.com/u/216758?s=200&v=4"/>
+    <a href="https://mailchimp.com/"><img src="https://avatars2.githubusercontent.com/u/216758?s=50"/>
     <br/>Mailchimp</a>
   </td>
   <td>
-    <a href="https://web3.foundation/"><img src="https://avatars0.githubusercontent.com/u/30405397?s=200&v=4"/>
+    <a href="https://web3.foundation/"><img src="https://avatars0.githubusercontent.com/u/30405397?s=50"/>
     <br/>Web3</a>
   </td>
   <td>
-    <a href="https://www.mautic.org/"><img src="https://avatars2.githubusercontent.com/u/5257677?s=200&v=4"/>
+    <a href="https://www.mautic.org/"><img src="https://avatars2.githubusercontent.com/u/5257677?s=50"/>
     <br/>Mautic</a>
   </td>
 </tr>
 <tr>
   <td>
-    <a href="https://www.codecademy.com/"><img src="https://avatars3.githubusercontent.com/u/1463944?s=200&v=4"/>
+    <a href="https://www.codecademy.com/"><img src="https://avatars3.githubusercontent.com/u/1463944?s=50"/>
     <br/>Codecademy</a>
   </td>
   <td>
-    <a href="https://conda.io/"><img src="https://avatars2.githubusercontent.com/u/6392739?s=200&v=4"/>
+    <a href="https://conda.io/"><img src="https://avatars2.githubusercontent.com/u/6392739?s=50"/>
     <br/>Conda</a>
   </td>
   <td>
-    <a href="http://v2.onivim.io/"><img src="https://avatars0.githubusercontent.com/u/31161891?s=200&v=4"/>
+    <a href="http://v2.onivim.io/"><img src="https://avatars0.githubusercontent.com/u/31161891?s=50"/>
     <br/>onivim</a>
   </td>
   <td>
-    <a href="http://egghead.io/"><img src="https://avatars2.githubusercontent.com/u/5975001?s=200&v=4"/>
+    <a href="http://egghead.io/"><img src="https://avatars2.githubusercontent.com/u/5975001?s=50"/>
     <br/>Egghead</a>
   </td>
   <td>
-    <a href="http://geonode.org/"><img src="https://avatars0.githubusercontent.com/u/132843?s=200&v=4"/>
+    <a href="http://geonode.org/"><img src="https://avatars0.githubusercontent.com/u/132843?s=50"/>
     <br/>GeoNode</a>
   </td>
   <td>
-    <a href="https://www.graycore.io/"><img src="https://avatars3.githubusercontent.com/u/33813698?s=200&v=4"/>
+    <a href="https://www.graycore.io/"><img src="https://avatars3.githubusercontent.com/u/33813698?s=50"/>
     <br/>Graycore</a>
   </td>
   <td>
-    <a href="http://www.hivemq.com/"><img src="https://avatars1.githubusercontent.com/u/4578332?s=200&v=4"/>
+    <a href="http://www.hivemq.com/"><img src="https://avatars1.githubusercontent.com/u/4578332?s=50"/>
     <br/>HiveMQ</a>
   </td>
 </tr>

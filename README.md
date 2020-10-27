@@ -3,13 +3,13 @@
 cla-bot is a GitHub Application for automation of Contributor Licence Agreements (CLAs). It checks whether contributors have signed an agreement, adding labels to PRs if they have, or prompting for signature if they have not.
 
 This bot has the following features:
- - Easy integration on projects or whole organisation as a GitHub App
+ - Easily integrates with projects or entire organisations via a GitHub App
  - Automatically checks every pull request and every commit
- - Pull requests are re-check on each push
+ - Pull requests are re-checked on each push
  - The approved contributor list can be maintained in various ways including JSON files or a webhook
- - A re-check for a pull request can be triggered
+ - A re-check for a pull request can be triggered via a comment
  - Uses labels and status checks to make the process visible
- - Provides a fully-hosted solution, you don't have to maintain your own bit installation
+ - Provides a fully-hosted solution, you don't have to maintain your own bot installation
  - You can provide templates for the various messages this bot posts
 
 ## Used by ...

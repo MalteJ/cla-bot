@@ -253,6 +253,12 @@ If a PR is opened where all the contributors have signed the CLA, it is labelled
 }
 ~~~
 
+## Privacy Policy
+
+Your privacy is important to us. It is cla-bot's policy to respect your privacy regarding any information we may via the GitHub app integration. This bot does not collect or store any personal information.
+
+The process of verifying a contributors CLA generates a log file which is publicly available, and accessible via the associated pull request status. These log files are retained indefinitely as they are an integral part of the bot's function. If you have any concerns, or spot any privacy related issues with these files, please raise an issue and these will be addressed as a priority.
+
 ## Development
 
 You know ... the usual ...

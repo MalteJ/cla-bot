@@ -213,7 +213,7 @@ If the contributors URL uses the GitHub API, the bot will be authenticated, allo
 }
 ~~~
 
-You can supply a webhook which has a querysting that is invoked for each committer:
+You can supply a webhook which has a querystring that is invoked for each committer:
 
 ~~~json
 {

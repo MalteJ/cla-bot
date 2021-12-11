@@ -23,8 +23,8 @@ This bot checks over 20,000 PRs each month and is used by a number of prominent 
     <br/>NativeScript</a>
   </td>
   <td>
-    <a href="https://prestosql.io/"><img src="https://avatars2.githubusercontent.com/u/34147222?s=50"/>
-    <br/>PrestoSQL</a>
+    <a href="https://trino.io/"><img src="https://avatars2.githubusercontent.com/u/34147222?s=50"/>
+    <br/>Trino</a>
   </td>
   <td>
     <a href="https://www.demandware.com/"><img src="https://avatars3.githubusercontent.com/u/1315434?s=50"/>

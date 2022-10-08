@@ -225,7 +225,7 @@ With each invocation, the `checkContributor` querystring parameter is used to su
 
 ~~~json
 {
-  "isContributor": "true"
+  "isContributor": true
 }
 ~~~
 
